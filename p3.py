@@ -5,3 +5,8 @@ print(x)
 
 num = 10  
 print(num % 5 == 0) # Out put is True if num is divisible by 5 else False
+
+a = 6
+b = 8
+
+print(a + b)

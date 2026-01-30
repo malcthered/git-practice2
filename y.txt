@@ -1,0 +1,19 @@
+c775f9b Add functionality to find common letters between words
+2543aa2 Initial commit
+f87f420 Initial commits
+54754f9 add sum
+4f43ca6 Initial commit - C and pdf.py
+db4ea12 python practice
+314ea90 python practice
+cfc98b0 python practice
+31deaf1 Added replace.py
+448733a Merge branch 'branch_b' into branch_a
+4f01282 Added Item 6 to unordered list
+3e544ad Added Item 6 to unordered list
+77c8c18 Merge branch 'CR002' into FIX001
+8b0e472 Added 5th line item to unordered list
+39d4ebe Add CSS
+46b726b Merge branch 'C001'- Add footer
+afafbe5 Added missing item to unordered list
+9d796bf footer added
+5be21a4 initial commit

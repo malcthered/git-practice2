@@ -1,0 +1,28 @@
+body {
+    margin: 20px auto;
+    max-width: 1000px;
+}
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000000;
+    display: inline-block;
+    margin: 20px;
+    Padding: 10px;
+}
+
+#colour1 {
+    background-color: #F8efe3; /* Red */
+}
+
+#colour2 {
+    background-color: #25cad2; /* Royal Mail Teal */
+}   
+
+#colour3 {
+    background-color: #CA123F; /* Cherry Red */
+}
+
+#colour4 {
+    background-color: #E89AAF; /* Yellow */
+}

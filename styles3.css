@@ -1,0 +1,9 @@
+#error {
+    color: red;
+    font-weight: bold;
+}
+
+#output {
+    color: blue;
+    font-weight: bold;
+}

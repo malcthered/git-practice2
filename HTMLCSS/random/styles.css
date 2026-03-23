@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}   
+
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5em;
+}
+
+#main-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+    margin-top: 80px;
+}
+
+#main-section {
+    font-size: 1.2em;
+    color: #555;
+    text-align: center;
+
+}  
+
+#random-number {
+    font-size: 2em;
+    color: #007BFF;
+    text-align: center;
+}
+
+
+
